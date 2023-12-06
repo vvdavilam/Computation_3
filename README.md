@@ -62,6 +62,20 @@ Take part in an exciting race where the goal is to survive longer than your oppo
 - Both roads will have cars coming in the opposite direction as well as power ups that will help them have some advantage (or disadvantage) for a period of time.
 
 # Power Ups
+Use these awesome power-ups to enhance your racing experience! During the game, they cause you to gain special benefits or disadvantages.
+
+All power-ups last 5 seconds. If you are using any power-up and grab another one, you will continue using the power-up you had. It only changes the power-up when you are not using any power-up.
+
+1. ### Invinsibility:
+Get momentary invincibility to keep your car safe from collisions.
+
+![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+2. ### Slowing:
+
+3. ### Small:
+
+4. ### Speeding: 
 
 # Authors
 
