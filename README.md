@@ -28,7 +28,7 @@ Note that these instructions are designed for Windows users in mind. You might n
    - Navigate to the directory where you want to clone the repository using the cd command.
    - Run the following command to clone the repository:
 
-      `git clone https://github.com/vvdavila/Computation_3.git`
+      `git clone https://github.com/vvdavilam/Computation_3.git`
 
 3. ### Navigate to the Cloned Repository:
    - Change to the directory of the cloned repository:
