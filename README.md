@@ -31,11 +31,22 @@ Note that these instructions are designed for Windows users in mind. You might n
 `git clone https://github.com/vvdavila/Computation_3.git`
 
 3. Navigate to the Cloned Repository:
-   - Change to the directory of the cloned repository:
+   -Change to the directory of the cloned repository:
+       `cd GroupT_Computation3 `
+   
+4. Create and Activate Virtual Environment:
    - Create a new virtual environment (replace `your_environment_name` with your desired name):
       `conda create --name your_environment_name python=3.8`
-   -Activate the virtual environment:
+   - Activate the virtual environment:
       `conda activate your_environment_name`
+
+5. Install Dependencies:
+   - Install Pygame:
+      `pip install pygame`
+
+6. Run the Game:
+   - Execute the game using the following command:
+      `python main.py`
 
 # How to play
 
