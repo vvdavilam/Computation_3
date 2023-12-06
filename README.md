@@ -16,8 +16,13 @@ What are you waiting to try it? Come on, do your best!
 
 # Step One
 ### Required conditions
-
+   - Python (version 3.10 or later)
+     
 ### Installation
+Note that these instructions are designed for Windows users in mind. You might need to modify the procedures if you're using a different operating system:
+
+1. Download Anaconda from the [Anaconda website].(https://www.anaconda.com/download).
+
 
 # How to play
 
