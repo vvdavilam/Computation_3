@@ -6,16 +6,26 @@ What are you waiting to try it? Come on, do your best!
 
 ## Content
 1. Speed Rush Game
-2. [Step one](#Step one)
-   - [Required conditions](#Required conditions)
-   - [Installation]
-3. How to play
-4. Power ups
-5. Authors
-6. License
+2. [Step one](#Step-one)
+   - [Required conditions](#Required-conditions)
+   - [Installation](#Installation)
+3. [How to play](#How-to-play)
+4. [Power Ups](#Power-Ups)
+5. [Authors](#Authors)
+6. [License](#License)
 
 # Step One
 ### Required conditions
+
+### Installation
+
+# How to play
+
+# Power Ups
+
+# Authors
+
+# License 
 
 
 
