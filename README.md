@@ -83,7 +83,7 @@ All power-ups last 5 seconds. If you are using any power-up and grab another one
 # Authors
 
 # License 
-Distributed under the MIT License. See [LICENSE.txt](./LICENSE.txt) for more information.
+Distributed under the MIT License. See [LICENSE.txt](LICENSE) for more information.
 
 
 
