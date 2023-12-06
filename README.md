@@ -23,6 +23,13 @@ Note that these instructions are designed for Windows users in mind. You might n
 
 1. Download Anaconda from the [Anaconda website](https://www.anaconda.com/download).
 
+2. Clone the Repository:
+Open Anaconda Prompt.
+Navigate to the directory where you want to clone the repository using the cd command.
+Run the following command to clone the repository:
+
+`git clone https://github.com/vvdavila/Computation_3.git`
+
 # How to play
 
 # Power Ups
