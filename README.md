@@ -32,7 +32,7 @@ Note that these instructions are designed for Windows users in mind. You might n
 
 3. Navigate to the Cloned Repository:
    - Change to the directory of the cloned repository:
-       `cd GroupT_Computation3 `
+       `cd Computation_3 `
    
 4. Create and Activate Virtual Environment:
    - Create a new virtual environment (replace `your_environment_name` with your desired name):
@@ -49,7 +49,7 @@ Note that these instructions are designed for Windows users in mind. You might n
       `python main.py`
 
 # How to play
-## Singleplayer:
+### Singleplayer:
 - To move your car in the desired direction, use the arrow keys.
 - You will be confronting other cars that are going in the opposite way. You must keep from running into them if you want to live.
 - You can also come across power-ups in addition to cars. Getting power-ups will give you a short-term advantage (or disadvantage).
