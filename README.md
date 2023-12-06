@@ -67,20 +67,23 @@ Use these awesome power-ups to enhance your racing experience! During the game, 
 All power-ups last 5 seconds. If you are using any power-up and grab another one, you will continue using the power-up you had. It only changes the power-up when you are not using any power-up.
 
 1. ### Invinsibility:
-Get momentary invincibility to keep your car safe from collisions.
+   Get momentary invincibility to keep your car safe from collisions.
 
 ![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 2. ### Slowing:
+   Make oncoming vehicles slow down to facilitate navigating the traffic.
 
-3. ### Small:
+3. ### Small:  
+   Reduces car size, making it easier to pass through traffic
 
-4. ### Speeding: 
+4. ### Speeding:
+   Make oncoming vehicles increase speed making it difficult to navigate traffic.
 
 # Authors
 
 # License 
-
+Distributed under the MIT License. See [LICENSE.txt](./LICENSE.txt) for more information.
 
 
 
