@@ -32,7 +32,7 @@ Note that these instructions are designed for Windows users in mind. You might n
 
 3. Navigate to the Cloned Repository:
    Change to the directory of the cloned repository:
-Create a new virtual environment (replace `your_environment_name` with your desired name):
+   Create a new virtual environment (replace `your_environment_name` with your desired name):
    `conda create --name your_environment_name python=3.8`
    Activate the virtual environment:
    `conda activate your_environment_name`
