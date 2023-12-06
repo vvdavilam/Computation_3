@@ -66,7 +66,7 @@ Use these awesome power-ups to enhance your racing experience! During the game, 
 
 All power-ups last 5 seconds. If you are using any power-up and grab another one, you will continue using the power-up you had. It only changes the power-up when you are not using any power-up.
 
-1. ### Invinsibility:
+1. ### Invincibility:
    Get momentary invincibility to keep your car safe from collisions.
 
 2. ### Slowing:
