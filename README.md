@@ -49,10 +49,17 @@ Note that these instructions are designed for Windows users in mind. You might n
       `python main.py`
 
 # How to play
-### Singleplayer:
+### Single player:
 - To move your car in the desired direction, use the arrow keys.
 - You will be confronting other cars that are going in the opposite way. You must keep from running into them if you want to live.
 - You can also come across power-ups in addition to cars. Getting power-ups will give you a short-term advantage (or disadvantage).
+
+### Multiplayer: 
+Take part in an exciting race where the goal is to survive longer than your opponent. Should one of the players lose, the other player wins right away.
+- You will have two roads.
+- Player 1: Use arrow keys.
+- Player 2: Use 'WASD' keys.
+- Both roads will have cars coming in the opposite direction as well as power ups that will help them have some advantage (or disadvantage) for a period of time.
 
 # Power Ups
 
