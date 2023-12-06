@@ -69,8 +69,6 @@ All power-ups last 5 seconds. If you are using any power-up and grab another one
 1. ### Invinsibility:
    Get momentary invincibility to keep your car safe from collisions.
 
-![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-
 2. ### Slowing:
    Make oncoming vehicles slow down to facilitate navigating the traffic.
 
