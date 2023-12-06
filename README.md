@@ -21,30 +21,30 @@ What are you waiting to try it? Come on, do your best!
 ### Installation
 Note that these instructions are designed for Windows users in mind. You might need to modify the procedures if you're using a different operating system:
 
-1. Download Anaconda from the [Anaconda website](https://www.anaconda.com/download).
+1. ### Download Anaconda from the [Anaconda website](https://www.anaconda.com/download).
 
-2. Clone the Repository:
+2. ### Clone the Repository:
    - Open Anaconda Prompt.
    - Navigate to the directory where you want to clone the repository using the cd command.
    - Run the following command to clone the repository:
 
       `git clone https://github.com/vvdavila/Computation_3.git`
 
-3. Navigate to the Cloned Repository:
+3. ### Navigate to the Cloned Repository:
    - Change to the directory of the cloned repository:
        `cd Computation_3 `
    
-4. Create and Activate Virtual Environment:
+4. ### Create and Activate Virtual Environment:
    - Create a new virtual environment (replace `your_environment_name` with your desired name):
       `conda create --name your_environment_name python=3.8`
    - Activate the virtual environment:
       `conda activate your_environment_name`
 
-5. Install Dependencies:
+5. ### Install Dependencies:
    - Install Pygame:
       `pip install pygame`
 
-6. Run the Game:
+6. ### Run the Game:
    - Execute the game using the following command:
       `python main.py`
 
