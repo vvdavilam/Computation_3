@@ -28,10 +28,10 @@ Note that these instructions are designed for Windows users in mind. You might n
    - Navigate to the directory where you want to clone the repository using the cd command.
    - Run the following command to clone the repository:
 
-`git clone https://github.com/vvdavila/Computation_3.git`
+      `git clone https://github.com/vvdavila/Computation_3.git`
 
 3. Navigate to the Cloned Repository:
-   -Change to the directory of the cloned repository:
+   - Change to the directory of the cloned repository:
        `cd GroupT_Computation3 `
    
 4. Create and Activate Virtual Environment:
@@ -49,6 +49,10 @@ Note that these instructions are designed for Windows users in mind. You might n
       `python main.py`
 
 # How to play
+## Singleplayer:
+- To move your car in the desired direction, use the arrow keys.
+- You will be confronting other cars that are going in the opposite way. You must keep from running into them if you want to live.
+- You can also come across power-ups in addition to cars. Getting power-ups will give you a short-term advantage (or disadvantage).
 
 # Power Ups
 
