@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/background/interface.png" alt="Nombre Alternativo" width="200">
+  <img src="./images/background/interface.png" alt="Name" width="200">
 </p>
 
 # Speed Rush Game 
@@ -71,15 +71,27 @@ Use these awesome power-ups to enhance your racing experience! During the game, 
 All power-ups last 5 seconds. If you are using any power-up and grab another one, you will continue using the power-up you had. It only changes the power-up when you are not using any power-up.
 
 1. ### Invincibility:
+<p>
+  <img src="./images/power_ups/shield.png" alt="Name" width="50">
+</p>
    Get momentary invincibility to keep your car safe from collisions.
 
-2. ### Slowing:
+3. ### Slowing:
+<p>
+  <img src="./images/power_ups/time.png" alt="Name" width="50">
+</p>
    Make oncoming vehicles slow down to facilitate navigating the traffic.
 
-3. ### Small:  
+5. ### Small:  
+<p>
+  <img src="./images/power_ups/small.png" alt="Name" width="50">
+</p>
    Reduces car size, making it easier to pass through traffic
 
-4. ### Speeding:
+7. ### Speeding:
+<p>
+  <img src="./images/power_ups/fast.png" alt="Name" width="50">
+</p>
    Make oncoming vehicles increase speed making it difficult to navigate traffic.
 
 # Authors
