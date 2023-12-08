@@ -84,7 +84,7 @@ def winning_interface(player1_wins):
         screen.blit(background, (0, 0))
 
         # Display winning message
-        screen.blit(text, (300, 140))
+        screen.blit(text, (280, 140))
 
         # Display try again image
         screen.blit(try_again_image, (310, 360))
