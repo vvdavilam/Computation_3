@@ -76,19 +76,19 @@ All power-ups last 5 seconds. If you are using any power-up and grab another one
 </p>
    Get momentary invincibility to keep your car safe from collisions.
 
-3. ### Slowing:
+2. ### Slowing:
 <p>
   <img src="./images/power_ups/time.png" alt="Name" width="50">
 </p>
    Make oncoming vehicles slow down to facilitate navigating the traffic.
 
-5. ### Small:  
+3. ### Small:  
 <p>
   <img src="./images/power_ups/small.png" alt="Name" width="50">
 </p>
    Reduces car size, making it easier to pass through traffic
 
-7. ### Speeding:
+4. ### Speeding:
 <p>
   <img src="./images/power_ups/fast.png" alt="Name" width="50">
 </p>
