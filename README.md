@@ -57,8 +57,8 @@ Note that these instructions are designed for Windows users in mind. You might n
 ### Multiplayer: 
 Take part in an exciting race where the goal is to survive longer than your opponent. Should one of the players lose, the other player wins right away.
 - You will have two roads.
-- Player 1: Use arrow keys.
-- Player 2: Use 'WASD' keys.
+- Player 1: Use 'WASD' keys.
+- Player 2: Use arrow keys.
 - Both roads will have cars coming in the opposite direction as well as power ups that will help them have some advantage (or disadvantage) for a period of time.
 
 # Power Ups
